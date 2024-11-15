@@ -134,3 +134,5 @@
 // let minValue = Number.MIN_VALUE; 
 
 // console.log(minValue);
+
+console.log("salom");
